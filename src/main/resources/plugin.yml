@@ -1,0 +1,8 @@
+name: RegionMessages
+version: 1.0
+main: me.secretagent.regionmessages.RegionMessages
+api-version: 1.8
+authors: [ SecretAgent ]
+permissions:
+  rm.*:
+    default: op
